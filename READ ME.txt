@@ -1,0 +1,36 @@
+#PSX Dupe
+Simple Python PSX Dupe Tool That Work With The New Dupe System!
+
+ ---------------------------------------------------------
+ 🦠🦠🦠
+
+Features : 
+
+- Timer Start At 1 Minute
+
+- Execute To A Duplicate Pet
+
+- Don't Even Work With Coins Or Gems (Only Pets)
+
+---------------------------------------------------------
+
+ ❓❓❓
+ 
+ HOW TO USE IT ??
+
+1. - Open "install_python" If You Have Don't Have Python Installed
+
+2. - Open "build.bat"
+
+3. - Open PSX Game In Roblox
+
+4. - Open "PSX Tool.py"
+
+5. Use Timer Up To "1 Minute"
+
+6. Once 1 Minute Is Up, Open PSX Game In Roblox, And You'll See Your Pets Duped
+
+Enjoy :) 
+
+
+---------------------------------------------------------
